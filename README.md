@@ -17,11 +17,11 @@ A hands-on learning repository documenting my journey of learning **Go (Golang)*
 
 ### Phase 1: Go Fundamentals
 - [x] Hello World
-- [ ] Variables and Constants
-- [ ] Data Types
-- [ ] Operators
-- [ ] Conditional Statements (if, else, switch)
-- [ ] Loops (for)
+- [x] Variables and Constants
+- [x] Data Types
+- [x] Operators
+- [x] Conditional Statements (if, else, switch)
+- [x] Loops (for)
 - [ ] Functions
 - [ ] Arrays and Slices
 - [ ] Maps
